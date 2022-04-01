@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog</title>
+    <link>https://mbirkenkamp.github.io/blog/</link>
+    <description>Recent content on Blog</description>
+    <image>
+      <url>https://mbirkenkamp.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mbirkenkamp.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Apr 2022 08:38:02 +0200</lastBuildDate><atom:link href="https://mbirkenkamp.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quarkus First Steps</title>
+      <link>https://mbirkenkamp.github.io/blog/posts/hugo-first-steps/</link>
+      <pubDate>Fri, 01 Apr 2022 08:38:02 +0200</pubDate>
+      
+      <guid>https://mbirkenkamp.github.io/blog/posts/hugo-first-steps/</guid>
+      <description>Welcome This page is designed to get you up and running with quarkus.</description>
+    </item>
+    
+    <item>
+      <title>Quarkus Introduction</title>
+      <link>https://mbirkenkamp.github.io/blog/posts/quarkus-intro/</link>
+      <pubDate>Fri, 01 Apr 2022 08:38:02 +0200</pubDate>
+      
+      <guid>https://mbirkenkamp.github.io/blog/posts/quarkus-intro/</guid>
+      <description>Welcome This page is designed to get you up and running with quarkus.</description>
+    </item>
+    
+    <item>
+      <title>Hugo First Steps</title>
+      <link>https://mbirkenkamp.github.io/blog/hugo-first-steps/</link>
+      <pubDate>Mon, 28 Mar 2022 10:43:41 +0200</pubDate>
+      
+      <guid>https://mbirkenkamp.github.io/blog/hugo-first-steps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

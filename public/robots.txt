@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mbirkenkamp.github.io/blog/sitemap.xml
