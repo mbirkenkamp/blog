@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>hugo on mbirkenkamps blog</title>
-    <link>https://mbirkenkamp.github.io/blog/tags/hugo/</link>
-    <description>Recent content in hugo on mbirkenkamps blog</description>
+    <title>why on mbirkenkamps blog</title>
+    <link>https://mbirkenkamp.github.io/blog/tags/why/</link>
+    <description>Recent content in why on mbirkenkamps blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Apr 2022 21:08:00 +0200</lastBuildDate><atom:link href="https://mbirkenkamp.github.io/blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 21:08:00 +0200</lastBuildDate><atom:link href="https://mbirkenkamp.github.io/blog/tags/why/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Start</title>
       <link>https://mbirkenkamp.github.io/blog/posts/blog-install/</link>
