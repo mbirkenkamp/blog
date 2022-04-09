@@ -1,7 +1,7 @@
 ---
 title: "Blog Start"
-date: 2022-04-01T08:38:02+02:00
-tags: ["hugo", "quarkus", "first steps"]
+date: 2022-04-09T21:08:00+02:00
+tags: ["hugo", "why", "first steps"]
 
 ---
 
