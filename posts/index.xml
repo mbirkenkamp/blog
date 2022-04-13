@@ -5,7 +5,17 @@
     <link>https://mbirkenkamp.github.io/blog/posts/</link>
     <description>Recent content in Posts on mbirkenkamps blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Apr 2022 21:08:00 +0200</lastBuildDate><atom:link href="https://mbirkenkamp.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 19:02:22 +0200</lastBuildDate><atom:link href="https://mbirkenkamp.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vue Focus Handling</title>
+      <link>https://mbirkenkamp.github.io/blog/posts/vue-focus-handling/</link>
+      <pubDate>Tue, 12 Apr 2022 19:02:22 +0200</pubDate>
+      
+      <guid>https://mbirkenkamp.github.io/blog/posts/vue-focus-handling/</guid>
+      <description>Storytime i was working on a POC for multi factor authentication using time-based one time passwords (TOTP) and wanted to create a nice input UI for this, so i thought this would be a great way to practice my vue knowledge and create another showcase of vue for the team.
+What i wanted was a UI like the one iOS uses, so 6 separate input boxes that are more or less handled like a normal input field but pretty 😊.</description>
+    </item>
+    
     <item>
       <title>Blog Start</title>
       <link>https://mbirkenkamp.github.io/blog/posts/blog-install/</link>

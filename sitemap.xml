@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/elements/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/focus/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/learning/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/posts/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/refs/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/vue/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/posts/vue-focus-handling/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/vuejs/</loc>
+    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
+  </url><url>
     <loc>https://mbirkenkamp.github.io/blog/posts/blog-install/</loc>
     <lastmod>2022-04-09T21:08:00+02:00</lastmod>
   </url><url>
@@ -9,15 +39,6 @@
     <lastmod>2022-04-09T21:08:00+02:00</lastmod>
   </url><url>
     <loc>https://mbirkenkamp.github.io/blog/tags/hugo/</loc>
-    <lastmod>2022-04-09T21:08:00+02:00</lastmod>
-  </url><url>
-    <loc>https://mbirkenkamp.github.io/blog/</loc>
-    <lastmod>2022-04-09T21:08:00+02:00</lastmod>
-  </url><url>
-    <loc>https://mbirkenkamp.github.io/blog/posts/</loc>
-    <lastmod>2022-04-09T21:08:00+02:00</lastmod>
-  </url><url>
-    <loc>https://mbirkenkamp.github.io/blog/tags/</loc>
     <lastmod>2022-04-09T21:08:00+02:00</lastmod>
   </url><url>
     <loc>https://mbirkenkamp.github.io/blog/tags/why/</loc>
