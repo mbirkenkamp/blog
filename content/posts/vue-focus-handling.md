@@ -52,7 +52,7 @@ when the user mistypes the otp, they would input in the following sequence:
 
 > 1235[Backspace]45
 
-the backspace key should go back to the last field, select the value and delete it, leading to 12345, which meant that is needed to implement a special handling of this key (and the uglier code that comes with these sort of implementation details).
+the backspace key should go back to the last field, select the value and delete it, leading to 12345, which meant that is needed 
 
 ## Cursor handling
 
@@ -60,4 +60,4 @@ just like the backspace key, cursor left and cursor right should also navigate t
 
 # Result
 
-![](/vue-focus-handling-1.gif)
+![](/blog/vue-focus-handling-1.gif)
