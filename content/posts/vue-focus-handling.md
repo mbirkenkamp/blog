@@ -60,4 +60,4 @@ just like the backspace key, cursor left and cursor right should also navigate t
 
 # Result
 
-![](vue-focus-handling-1.gif)
+![](/vue-focus-handling-1.gif)
