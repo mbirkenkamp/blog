@@ -1,7 +1,6 @@
 ---
 title: "Vue Focus Handling"
 date: 2022-04-12T19:02:22+02:00
-draft: true
 tags: ["vuejs", "vue", "focus", "elements", "refs", "learning"]
 ---
 
