@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/dev/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/posts/difference-between-junior-and-senior-dev/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/junior/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/leading/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/mentoring/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/posts/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/senior/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
+    <loc>https://mbirkenkamp.github.io/blog/tags/thoughts/</loc>
+    <lastmod>2022-05-07T19:14:13+02:00</lastmod>
+  </url><url>
     <loc>https://mbirkenkamp.github.io/blog/tags/elements/</loc>
     <lastmod>2022-04-12T19:02:22+02:00</lastmod>
   </url><url>
@@ -11,16 +41,7 @@
     <loc>https://mbirkenkamp.github.io/blog/tags/learning/</loc>
     <lastmod>2022-04-12T19:02:22+02:00</lastmod>
   </url><url>
-    <loc>https://mbirkenkamp.github.io/blog/</loc>
-    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
-  </url><url>
-    <loc>https://mbirkenkamp.github.io/blog/posts/</loc>
-    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
-  </url><url>
     <loc>https://mbirkenkamp.github.io/blog/tags/refs/</loc>
-    <lastmod>2022-04-12T19:02:22+02:00</lastmod>
-  </url><url>
-    <loc>https://mbirkenkamp.github.io/blog/tags/</loc>
     <lastmod>2022-04-12T19:02:22+02:00</lastmod>
   </url><url>
     <loc>https://mbirkenkamp.github.io/blog/tags/vue/</loc>

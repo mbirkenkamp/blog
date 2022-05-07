@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>junior on mbirkenkamps blog</title>
+    <link>https://mbirkenkamp.github.io/blog/tags/junior/</link>
+    <description>Recent content in junior on mbirkenkamps blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 May 2022 19:14:13 +0200</lastBuildDate><atom:link href="https://mbirkenkamp.github.io/blog/tags/junior/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Difference Between Junior and Senior Dev</title>
+      <link>https://mbirkenkamp.github.io/blog/posts/difference-between-junior-and-senior-dev/</link>
+      <pubDate>Sat, 07 May 2022 19:14:13 +0200</pubDate>
+      
+      <guid>https://mbirkenkamp.github.io/blog/posts/difference-between-junior-and-senior-dev/</guid>
+      <description>Why do we have roles? People like naming things Upside It is easier to talk about categories or job levels then to always declare the full function or expertise of a person or group, i.e. &amp;ldquo;That task can be handled by one of the junior devs&amp;rdquo; vs. &amp;ldquo;That task can be handled by one of the devs that know our architecture, but are not yet experienced in the front end code&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
