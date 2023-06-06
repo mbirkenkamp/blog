@@ -34,4 +34,6 @@ the fact that nobody reads this grants me infinite tries and fails, without the 
 
 # JUST SHIP IT!
 
-# 
+# Update (2023-04-29)
+
+it does not look good for my challenge, i am still writing on my second post, but maybe i will finish it soon, so there is still hope
