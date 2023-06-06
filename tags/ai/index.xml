@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ai on mbirkenkamps blog</title>
+    <link>https://mbirkenkamp.github.io/blog/tags/ai/</link>
+    <description>Recent content in ai on mbirkenkamps blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Apr 2023 12:32:57 +0200</lastBuildDate><atom:link href="https://mbirkenkamp.github.io/blog/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Takeover (part 1)</title>
+      <link>https://mbirkenkamp.github.io/blog/posts/ai_takeover_1/</link>
+      <pubDate>Fri, 21 Apr 2023 12:32:57 +0200</pubDate>
+      
+      <guid>https://mbirkenkamp.github.io/blog/posts/ai_takeover_1/</guid>
+      <description>WHUT??? the world (not only the developers) has been introduced to the latest step in AI hype: ChatGPT, it gathered widespread media attention not during its initial release in December 2022 but in the beginning of 2023. After a couple of years where AI and ML Advancements were incremental (but impressive for certain applications), this marked a distinct step for many (including me).
+Was this the first time AI made headlines?</description>
+    </item>
+    
+  </channel>
+</rss>

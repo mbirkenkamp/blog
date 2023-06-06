@@ -5,14 +5,15 @@
     <link>https://mbirkenkamp.github.io/blog/</link>
     <description>Recent content on mbirkenkamps blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 20:08:00 +0200</lastBuildDate><atom:link href="https://mbirkenkamp.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 12:32:57 +0200</lastBuildDate><atom:link href="https://mbirkenkamp.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Challenge 2023</title>
-      <link>https://mbirkenkamp.github.io/blog/posts/challenge_2023/</link>
-      <pubDate>Thu, 16 Feb 2023 20:08:00 +0200</pubDate>
+      <title>AI Takeover (part 1)</title>
+      <link>https://mbirkenkamp.github.io/blog/posts/ai_takeover_1/</link>
+      <pubDate>Fri, 21 Apr 2023 12:32:57 +0200</pubDate>
       
-      <guid>https://mbirkenkamp.github.io/blog/posts/challenge_2023/</guid>
-      <description>Why? It has been a loooong time since i last finished a post to my little blog. This is enough to think about the reasons why i wanted to start writing more. Those things still remain the same, so it all comes down to really doing what i wanted to do (aka the hardest part). So I&amp;rsquo;ll try to challenge myself to write a small amount of posts this year, and see if i can at least get this done.</description>
+      <guid>https://mbirkenkamp.github.io/blog/posts/ai_takeover_1/</guid>
+      <description>WHUT??? the world (not only the developers) has been introduced to the latest step in AI hype: ChatGPT, it gathered widespread media attention not during its initial release in December 2022 but in the beginning of 2023. After a couple of years where AI and ML Advancements were incremental (but impressive for certain applications), this marked a distinct step for many (including me).
+Was this the first time AI made headlines?</description>
     </item>
     
     <item>
@@ -42,6 +43,15 @@ What i wanted was a UI like the one iOS uses, so 6 separate input boxes that are
       <guid>https://mbirkenkamp.github.io/blog/posts/blog-install/</guid>
       <description>Why? it all started with the blog post 8 Reasons Why You Should Blog as a Developer and especially the point about communicating clearly, which is becoming more and more important to me as my role shifts from &amp;ldquo;doer&amp;rdquo; to &amp;ldquo;enabler&amp;rdquo;. So it is more important to effectivly instruct others then doing stuff myself.
 Additionally i wanted to explore static site generators, so this was the perfect way to do this.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mbirkenkamp.github.io/blog/posts/challenge_2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mbirkenkamp.github.io/blog/posts/challenge_2023/</guid>
+      <description>title: &amp;#34;Challenge 2023&amp;#34; date: 2023-02-16T21:08:00+02:00 tags: [&amp;#34;challenge&amp;#34;, &amp;#34;blog&amp;#34;, &amp;#34;getting shit together&amp;#34;] Why? It has been a loooong time since i last finished a post to my little blog. This is enough to think about the reasons why i wanted to start writing more. Those things still remain the same, so it all comes down to really doing what i wanted to do (aka the hardest part). So I&amp;rsquo;ll try to challenge myself to write a small amount of posts this year, and see if i can at least get this done.</description>
     </item>
     
   </channel>
